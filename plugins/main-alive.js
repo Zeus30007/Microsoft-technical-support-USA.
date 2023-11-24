@@ -5,8 +5,8 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Define the content
   let mainImg = "https://telegra.ph/file/01a960fece02b9c0728f3.jpg"; // Main image URL
   let smallImg = "https://telegra.ph/file/01a960fece02b9c0728f3.jpg"; // Small image URL
-  let smallText = "I'M Alive Now"; // Small text
-  let mainText = "𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁"; // Main text
+  let smallText = "SORRY YOUR COMPUTER 🖥️ HAS VIRUS 🦠"; // Small text
+  let mainText = "Microsoft-technical-support-USA"; // Main text
   let audioUrl = "https://raw.githubusercontent.com/AbhishekSuresh2/ABHISHEK-SER/main/src/mp3/Abhi.mp3"; // Audio URL
   // Construct the message
   let con = {
@@ -26,7 +26,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     mimetype: 'audio/mp4',
     ptt: true,
     waveform: [100, 0, 100, 0, 100, 0, 100],
-    fileName: "MAIKI",
+    fileName: "ABHISHEK-SER",
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
