@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Microsoft-technical-support-USA'
+global.botname = 'Microsoft technical support USA '
 global.premium = 'true'
-global.packname = Microsoft-technical-support-USA' 
+global.packname = Microsoft' 
 global.author = 'Maiki' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
